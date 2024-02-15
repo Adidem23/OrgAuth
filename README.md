@@ -127,6 +127,12 @@ npm run start
 <br>
 <br>
 
-# 
+# Organization List  Page : 
+<br>
+<img width="960" alt="Screenshot 2024-02-15 165904" src="https://github.com/Adidem23/OrgAuth/assets/124609794/72eee201-b410-4d6d-85b4-e35bcff6c1fb">
+<br>
+<br>
+<br>
+
 
 --- 
