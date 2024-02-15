@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/Adidem23/OrgAuth/assets/124609794/ea512916-2d6c-4a67-884f-961a15fdd767" height="200px" width="240px" />
-  <h3 align="center"> OrgAuth : Social Media Platform  </h3>
+  <h3 align="center"> OrgAuth : Authentication and Authorization Platfrom </h3>
 </div>
 <details>
   <summary>Table of Contents</summary>
