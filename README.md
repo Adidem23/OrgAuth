@@ -45,13 +45,13 @@ This is organization authorization platform . This platform provides various ser
 
 # Built With : 
 
-# Frontend: 
+### Frontend: 
 
  - [![My Skills](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev) ViteJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
    
-# Authorization : 
+### Authorization : 
 
 <div style="display:flex; flex-direction:row;">
  <img src="https://github.com/Adidem23/eduConnect-3.0/assets/124609794/670adde8-7c98-42e0-a5b6-7c6ff44a9fb2" height="150px" width="150px"  /> 
