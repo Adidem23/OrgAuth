@@ -106,6 +106,13 @@ npm run start
 <br>
 <br>
 
-# 
+# AfterSignIn Page : 
+<br>
+<img width="960" alt="Screenshot 2024-02-15 165750" src="https://github.com/Adidem23/OrgAuth/assets/124609794/eed2cb4e-b4d9-4489-8227-b668acb88ad9">
+<br>
+<br>
+<br>
+
+#
 
 --- 
