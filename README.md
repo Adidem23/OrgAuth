@@ -25,7 +25,7 @@
 ## About The Project : 
 
 ## OrgAuth : Empowering Organizations, Securing Access
-This is organization authorization platform . This platform provides various services to manage users in organization 
+This is organization authorization platform . This platform provides various services to manage users in organization adn makes it easier to admin co-ordinate things inside organization . 
 
 ## Key Features :
 
