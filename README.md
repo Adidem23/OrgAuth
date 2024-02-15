@@ -88,9 +88,22 @@ npm run start
 
 # Deployments :
 
-- Deployed Site Link : 
+- Deployed Site Link : https://org-auth.vercel.app/
 
 # Screenshots :
 
+# Frontend : 
+<br>
+<img width="960" alt="Screenshot 2024-02-15 165730" src="https://github.com/Adidem23/OrgAuth/assets/124609794/bab1b221-95ff-4313-ac21-568fdefb60ca">
+<br>
+<br>
+<br>
+
+# SignIn Page : 
+<br>
+
+<br>
+<br>
+<br>
 
 --- 
