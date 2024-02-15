@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adidem23/OrgConnect/assets/124609794/aa7352b0-b474-49dd-aff3-e6feda752ac4" height="150px" width="240px" />
+ <img src="https://github.com/Adidem23/OrgAuth/assets/124609794/ea512916-2d6c-4a67-884f-961a15fdd767" height="150px" width="240px" />
   <h3 align="center"> OrgAuth : Social Media Platform  </h3>
 </div>
 <details>
