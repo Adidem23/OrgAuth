@@ -29,11 +29,15 @@ This is organization authorization platform . This platform provides various ser
 
 ## Key Features :
 
-# Community Creation :
-- Users can create their communities e.g sports , naturelovers and they are just like groups in WhatsApp .
+# Organization Creation :
+- Admins can create Orgnization and call invite users to join their organizations . 
 
-# Catrgories Creation : 
-- Users can add categories in this Communities also 
+# Domain Restriction : 
+- Admins can restrict domains of user like only email ending with something pattern can join the organization .
+
+# Dynamic Role Allocation : 
+- Users can have role of Admin or Member and Admins have authority to change role of user .
+
 
 # Video :
 - Youtube : https://youtu.be/3cNeoHDMGyk
