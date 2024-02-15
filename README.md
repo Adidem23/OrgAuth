@@ -113,6 +113,15 @@ npm run start
 <br>
 <br>
 
-#
+# UserProfile : 
+<br>
+<img width="960" alt="Screenshot 2024-02-15 165803" src="https://github.com/Adidem23/OrgAuth/assets/124609794/0795b553-a7c9-440f-9154-18fa9d77f694">
+<br>
+<br>
+<br>
+
+# CreateOrg Page: 
+<br>
+
 
 --- 
