@@ -40,7 +40,7 @@ This is organization authorization platform . This platform provides various ser
 
 
 # Video :
-- Youtube : https://youtu.be/3cNeoHDMGyk
+- Youtube : 
 
 
 # Built With : 
@@ -52,9 +52,10 @@ This is organization authorization platform . This platform provides various ser
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
    
 # Authorization : 
+
 <div style="display:flex; flex-direction:row;">
  <img src="https://github.com/Adidem23/eduConnect-3.0/assets/124609794/670adde8-7c98-42e0-a5b6-7c6ff44a9fb2" height="150px" width="150px"  /> 
-<p>ClerkJs</p>
+<p style="margin-left:30px;">ClerkJs</p>
 </div>
 
 # Prerequisites : 
